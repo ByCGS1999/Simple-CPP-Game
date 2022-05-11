@@ -1,3 +1,0 @@
-﻿  SimpleCPPGame.cpp
-C:\Users\Carles\source\repos\SimpleCPPGame\SimpleCPPGame\SimpleCPPGame.cpp(119,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-  SimpleCPPGame.vcxproj -> C:\Users\Carles\source\repos\SimpleCPPGame\x64\Debug\SimpleCPPGame.exe
